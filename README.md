@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-alotaibi" alt="jawad-alotaibi" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps practices like CI/CD, Docker, and monitoring tools Spring Boot & PostgreSQL for backend development Workflow automation using n8n Public speaking and leadership through Toastmasters**
+- 🌱 Hi, I’m Jawad Alotaibi, **a fresh graduate in Software Engineering with a strong interest in technology, continuous learning, and personal growth. I’m passionate about building useful digital solutions, strengthening my technical skills, and exploring opportunities that help me grow as a software engineer.**
+
+Beyond tech, I’m also a Toastmasters member, which has helped me develop my public speaking, leadership, and communication skills. I enjoy combining technical knowledge with clear communication, teamwork, and a mindset of continuous improvement.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jawad-Alotaibi?tab=repositories](https://github.com/Jawad-Alotaibi?tab=repositories)
 
