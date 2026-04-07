@@ -8,8 +8,6 @@
 - 🌱 Hi, I’m Jawad Alotaibi, **a fresh Software Engineering graduate and backend developer passionate about building web applications and APIs using Laravel and other modern web technologies. I’m focused on strengthening my backend development skills, improving my problem-solving abilities, and building real-world projects that reflect clean and practical software solutions.
 Alongside my technical journey, I’m also a Toastmasters member, which has helped me develop my public speaking, leadership, and communication skills. I believe combining technical expertise with strong communication and continuous learning is essential for growing as a software engineer.**
 
-Beyond tech, I’m also a Toastmasters member, which has helped me develop my public speaking, leadership, and communication skills. I enjoy combining technical knowledge with clear communication, teamwork, and a mindset of continuous improvement.
-
 - 👨‍💻 All of my projects are available at [https://github.com/Jawad-Alotaibi?tab=repositories](https://github.com/Jawad-Alotaibi?tab=repositories)
 
 - 📫 How to reach me **jawadk.alotaibi@gmail.com**
