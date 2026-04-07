@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jawad-alotaibi&label=Profile%20views&color=0e75b6&style=flat" alt="jawad-alotaibi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-alotaibi" alt="jawad-alotaibi" /></a> </p>
-
 - 🌱 Hi, I’m Jawad Alotaibi, **a fresh Software Engineering graduate and backend developer passionate about building web applications and APIs using Laravel and other modern web technologies. I’m focused on strengthening my backend development skills, improving my problem-solving abilities, and building real-world projects that reflect clean and practical software solutions.
 Alongside my technical journey, I’m also a Toastmasters member, which has helped me develop my public speaking, leadership, and communication skills. I believe combining technical expertise with strong communication and continuous learning is essential for growing as a software engineer.**
 
