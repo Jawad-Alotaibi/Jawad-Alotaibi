@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jawad-alotaibi" alt="jawad-alotaibi" /></a> </p>
 
-- 🌱 Hi, I’m Jawad Alotaibi, **a fresh graduate in Software Engineering with a strong interest in technology, continuous learning, and personal growth. I’m passionate about building useful digital solutions, strengthening my technical skills, and exploring opportunities that help me grow as a software engineer.**
+- 🌱 Hi, I’m Jawad Alotaibi, **a fresh Software Engineering graduate and backend developer passionate about building web applications and APIs using Laravel and other modern web technologies. I’m focused on strengthening my backend development skills, improving my problem-solving abilities, and building real-world projects that reflect clean and practical software solutions.
+Alongside my technical journey, I’m also a Toastmasters member, which has helped me develop my public speaking, leadership, and communication skills. I believe combining technical expertise with strong communication and continuous learning is essential for growing as a software engineer.**
 
 Beyond tech, I’m also a Toastmasters member, which has helped me develop my public speaking, leadership, and communication skills. I enjoy combining technical knowledge with clear communication, teamwork, and a mindset of continuous improvement.
 
