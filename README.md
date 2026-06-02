@@ -10,7 +10,7 @@ Alongside my technical journey, I’m also a Toastmasters member, which has help
 
 - 📫 How to reach me **jawadk.alotaibi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1PcmIMH12MCxcIPv8O2aPV02PX8dt9Fjn/view?usp=drive_link](https://drive.google.com/file/d/1-gA4Nmy6uvSU7IkeeYKeoPFEh0c0O0E2/view?usp=sharing)
 
 - ⚡ Fun fact **I enjoy turning complex tech problems into simple solutions—and I once gave a Toastmasters speech about debugging like a detective!**
 
